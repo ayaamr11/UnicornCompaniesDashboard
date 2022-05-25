@@ -4,4 +4,5 @@ A unicorn company, or unicorn startup, is a private company with a valuation ove
 
 
 ## Dashboard Screenshot
-![Uploading UnicornCompaniesSS.png…]()
+
+![UnicornCompaniesSS](https://user-images.githubusercontent.com/36492846/170314864-3bba36da-b663-4b43-b2d9-4eb4e5e8537c.png)
